@@ -1,6 +1,6 @@
 ~~test~~
-__bold
-_italics
+__bold__
+_italics_
 ##### 5
 
 ## 2
